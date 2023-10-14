@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Changa+One&family=Delicious+Handrawn&display=swap');
+
+
+body{
+font-family: 'Bebas Neue', cursive;
+background-image: url('/assets/img1.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+
+.center-div{
+    padding-top: 10%;
+}
+.btn.btn-success{
+    padding:.4em 2em;
+}
+form{
+    padding:0 3em;
+}
+
+#login .title > span{
+    font-size:.8em
+}
